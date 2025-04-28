@@ -4,3 +4,5 @@ Will Scott Ohara's AI BGEE Denoised Area Backgrounds but, for technical reasons,
 For the BGEE only version, [go here](https://github.com/WillScarlettOhara/BGEE_AI_Denoised_Areas)!
 
 Forum: https://forums.beamdog.com/discussion/83893/mod-beta-ee-ai-denoised-areas/p1
+
+Preserved on GitHub with the author's permission.
